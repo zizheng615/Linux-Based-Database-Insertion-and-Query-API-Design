@@ -1,0 +1,4 @@
+运行
+
+cd homework1
+make && make test && make demo && make bench
